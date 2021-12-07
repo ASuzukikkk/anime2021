@@ -3,6 +3,8 @@
 ## 使い方
 
 ```
+from anime2021.naname044 import naname
+import IPython
 from anime2021.naname044 import Move
 shape = Move(80, 80, N=5)
 ```
