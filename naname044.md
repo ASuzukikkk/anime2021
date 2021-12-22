@@ -10,7 +10,6 @@ from anime2021.naname044 import Move
 shape = Move(80, 80, N=5)
 ```
 ## 例
-![](anime.png)
 
 ```
 IPython.display.Image(naname(Move(80,80, N=5)))
